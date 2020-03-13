@@ -1,0 +1,24 @@
+How to play the game:
+
+The goal of the game is to get all the blocks from
+the starting tower (red) to the goal tower (yellow).
+Blocks can be moved one by one and placed on a tower
+only and only if the tower doesn't already have a block that's
+smaller than the currently selected one.
+If the block can't be placed it'll turn black and won't
+allow placement.
+The block the cursor currently points to/is selected
+is indicated by its white color.
+Blocks change their color in accordance to the tower.
+The cursor and selected block can can be moved with either
+the A key and <- button or D key and -> button to the left or right
+respectively. The W key and Select button select a block if one 
+isn't already selected. The S key and Place button place 
+the currently selected block down if possible.
+The best score so far (shortest time) is saved in a text file
+and can be viewed on the start menu by pushing the high score button.
+The time passed in the current game is shown live in the lower
+right corner of the game.
+Players can adjust the amount of blocks in the game by
+between 3 and 12 in the start menu.
+To start the game, press start. 
